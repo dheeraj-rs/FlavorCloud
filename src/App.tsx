@@ -1,11 +1,11 @@
-import Headernavbar from './components/Headernavbar'
+// import Headernavbar from './components/Headernavbar'
 import Shopcontainer from './components/Shopcontainer'
 
 function App() {
 
   return (
     <>
-     <Headernavbar/>
+     {/* <Headernavbar/> */}
      <Shopcontainer/>
     </>
   )
